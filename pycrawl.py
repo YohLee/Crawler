@@ -1,3 +1,7 @@
+注：本文转自https://blog.csdn.net/shuryuu/article/details/82459415?utm_source=blogxgwz6，本代码仅用于学习，
+    如有侵犯到任何公司的合法权益，请及时在github联系，会第一时间将相关代码给予删除。
+
+
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 from selenium import webdriver
